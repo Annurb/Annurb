@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Técnica em Mecatrônica <br>Dev Front-End<br>Graduando em Ciência da Computação<br>Aprofundando conhecimentos em Js, html5, Css<br>Atualmente estudando: R<br><br>
 
 
