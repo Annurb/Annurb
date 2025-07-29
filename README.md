@@ -1,5 +1,5 @@
 #  About Me:
-Técnica em Mecatrônica <br>Dev Front-End, buscando FullStack<br>Graduando em Ciência da Computação<br>Aprofundando conhecimentos em Js, html5, Css<br>Atualmente estudando: Ti<br><br>
+Técnica em Mecatrônica <br>Dev Front-End, buscando FullStack<br>Graduando em Ciência da Computação<br>Aprofundando conhecimentos em Js, html5, Css<br>
 
 
 ## 🌐 Socials:
