@@ -11,6 +11,8 @@ Mechatronics Technician<br>Front-End Developer, but studying to be a Full-Stack 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Annurb&layout=compact&theme=dracula)
+https://github-readme-stats.vercel.app/api/top-langs/?username=Annurb
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
